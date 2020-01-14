@@ -1,2 +1,2 @@
 # Eng-Portfolio
-This is all of my work I did in my Engineering class
+This included all of the coding that I did in my Engineering class. As I progressed through the class so did my coding skills, first starting out medicore and then getting better and better as time progressed and I learned more things. Some of the simplest ones you will see is me trying to make simple code of everyday things like a calcualtor and a timer/stopwatch. Some of the more complicated code is me first starting to build a GUI for our robot following a guide(with slight modifications). 
